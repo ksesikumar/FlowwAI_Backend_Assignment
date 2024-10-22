@@ -1,5 +1,6 @@
-Expense Tracker API
-Overview This project is a RESTful API for managing personal financial transactions. It allows users to record income and expenses, retrieve past transactions, and generate summary reports, providing a basic personal financial tracking system.
+   Floww.ai Node JS - Backend Assignment: Personal Expense Tracker
+
+Personal Expense Tracker Overview This project is a RESTful API for managing personal financial transactions. It allows users to record income and expenses, retrieve past transactions, and generate summary reports, providing a basic personal financial tracking system.
 
 Table of Contents:
 
@@ -13,7 +14,8 @@ Table of Contents:
 
 5.Postman Documentation
 
-6. GitHub Repository
+6.GitHub Repository
+   
 
 1. Features:
 
@@ -142,7 +144,7 @@ json
    
    Capture screenshots: Take screenshots of successful responses for each API call.
 
-	 6. GitHub Repository:
+6.GitHub Repository:
 
-      Source code push into GitHub Repository
+   Source code push into GitHub Repository.
 
